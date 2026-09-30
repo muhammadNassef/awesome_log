@@ -1,7 +1,7 @@
 app_name = "awesome_log"
 app_title = "Awesome Log"
 app_publisher = "Muhammad Nassef"
-app_description = "Awesome Log is an ERPNext/Frappe application designed to enhance system logging, error tracking, workflow monitoring,"
+app_description = "Awesome Log is designed to enhance system logging, error tracking, workflow monitoring, and operational visibility."
 app_email = "mnassef854@gmail.com"
 app_license = "mit"
 
